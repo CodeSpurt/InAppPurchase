@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InAppPurchaseDemo</string>
+
+    <string name="buy_click">Buy Click</string>
+    <string name="click_me">Click Me after Purchase</string>
+
+    <string name="item_consumed">Item consumed. Buy a new click.</string>
+</resources>
